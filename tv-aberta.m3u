@@ -1,6 +1,9 @@
-#EXTM3U x-tvg-url="" tvg-name="MINHA EMPRESA - TV ONLINE"
+#EXTM3U x-tvg-url="" tvg-name="EduardoTech - TV ONLINE"
 
-#EXTINF:-1 group-title="Entretenimento",A&EFILMES
+#EXTINF:-1 group-title="Entretenimento",Record SP
+http://200.77.176.130:8000/udp/224.0.0.4:49152
+
+#EXTINF:-1 group-title="Entretenimento",A&E FILMES
 http://170.83.16.50/AeE/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimento",AMC
