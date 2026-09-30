@@ -1,7 +1,6 @@
-#EXTM3U
 #EXTM3U x-tvg-url="" tvg-name="MINHA EMPRESA - TV ONLINE"
 
-#EXTINF:-1 group-title="Entretenimento",A&E-Filmes
+#EXTINF:-1 group-title="Entretenimento",A&EFILMES
 http://170.83.16.50/AeE/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimento",AMC
