@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Entretenimento",A&E
+http://170.83.16.50/AeE/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",AMC
+http://170.83.49.66:8083/AMCHD/index.m3u8
+
+#EXTINF:-1 group-title="Documentários",History 2
+http://45.177.114.114/HISTORY_2/index.m3u8
+
+#EXTINF:-1 group-title="Documentários",History Channel
+http://45.177.114.114/HISTORY/index.m3u8
+
+#EXTINF:-1 group-title="TV Aberta",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+#EXTINF:-1 group-title="Música",Music Box
+http://168.197.104.22/MUSIC/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",Naruto TV
+https://jmp2.uk/plu-5f6df5a173d7340007c559f7.m3u8
+
+#EXTINF:-1 group-title="Infantil",Nickelodeon
+https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",PlayTV
+http://45.162.64.114/PLAY_TV/index.m3u8
+
+#EXTINF:-1 group-title="Entretenimento",Sony Channel
+http://170.83.16.50/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="Filmes",Studio Universal
+http://187.102.210.46/universo/index.m3u8
+
+#EXTINF:-1 group-title="Novelas",TNT Novelas
+http://45.162.64.114/TNT_NOVELAS/index.m3u8
+
+#EXTINF:-1 group-title="Documentários",Travel Box
+http://168.197.104.22/TRAVEL_BOX_BRASIL/index.m3u8
+
+#EXTINF:-1 group-title="Canais Públicos",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="Canais Públicos",TV Senado
+http://45.162.64.114/TV_SENADO/index.m3u8
