@@ -3,7 +3,6 @@
 #EXTINF:-1,       MINHA EMPRESA
 #EXTINF:-1,       TV ONLINE
 #EXTINF:-1,================================
-#EXTM3U
 
 #EXTINF:-1 group-title="Entretenimento",A&E
 http://170.83.16.50/AeE/index.m3u8
